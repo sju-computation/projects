@@ -1,7 +1,9 @@
-Disagreement Networks ## to appear in [*Involve*](https://msp.org/involve/about/journal/about.html)
+Disagreement Networks 
 ==========
 
 ## Florin Catrina and Brian Zilli
+
+### to appear in [*Involve*](https://msp.org/involve/about/journal/about.html)
 
 
 
