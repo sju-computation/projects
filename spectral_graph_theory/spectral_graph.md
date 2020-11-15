@@ -3,9 +3,9 @@ Spectral Graph Theory Demonstration
 
 ### Isaac Moorman
 
+<img src="nsf.png" style="position:absolute;top:0px;right:0px;" width="100" height="100" />
 Supported by the National Science Foundation under Grant Number NSF
 DMS-1700176.
-<img src="nsf.png" style="position:absolute;top:0px;right:0px;" width="100" height="100" />
 
 ## Introduction
 
