@@ -1,13 +1,10 @@
 Spectral Graph Theory Demonstration
 ================
 
-
-
-
-
-
-
 <img src="nsf.png" style="position:absolute;top:0px;right:0px;" width="100" height="100" />
+
+### Isaac Moorman
+
 Supported by the National Science Foundation under Grant Number NSF
 DMS-1700176.
 
@@ -96,8 +93,10 @@ vectors
     ##  [9,]  3.162278e-01 -0.2322387  0.38218475
 
 Using the second and third eigenvectors of the adjacency matrix as
-cartesian coordinates for each node, we can plot the G with this layout
-to see that it is planar.
+cartesian coordinates for each node, we can plot the G with this layout.
+
+We can see that G is planar, and now G also becomes a much clearer, more
+practical graph to deal with.
 
 ``` r
 v2<-vectors[,2]
@@ -113,4 +112,8 @@ plot.igraph(g, layout = j)
 
 ![](spectral_graph_files/figure-gfm/spectral_drawing-1.png)<!-- -->
 
-Now G becomes a much clearer, more practical graph to deal with.
+\[Spielman, Daniel. “Miracles of Algebraic Graph Theory.” Joint Math
+Meetings 2019, AMS-MAA, 18 Jan. 2019, Baltimore Convention Center\]
+
+\[ K. M. Hall, “An r-dimensional Quadratic Placement Algorithm”,
+Management Science 17 (1970), 219–229.\]
